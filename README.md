@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently been learning **Golang and Scala**
 
-- 👨‍💻 I’m currently working at Radiant - **software developement engineer - 1**
+- 👨‍💻 I’m currently working at Radiant - **Software Developement Engineer - 1**
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
 
