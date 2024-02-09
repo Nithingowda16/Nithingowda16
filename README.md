@@ -1,21 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nithin Gowda</h1>
 <h3 align="center">A passionate developer from India - Canada </h3>
 
-<p align="left"> <img src="" /> </p>
 
-- 🌱 I’m currently learning **Golang and System Design**
 
-- 👨‍💻 I’m currently working on [Resonate](https://github.com/AOSSIE-Org/Resonate)
+- 🌱 I’m currently been learning **Golang and System Design**
 
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1cqQxCZ8R79Ana1q__tD0HKBmPm72UKmZ/view)
+- 👨‍💻 I’m currently working on [Radiant]
 
-- 💻 All of my projects are available on [GitHub](https://github.com/chandansgowda)
+- 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
 
-- 📽️ I regularly upload videos on  [My Youtube  Channel](https://www.youtube.com/channel/UCXsJfVdrjqJUj6W291InuTg)
+- 💬 Ask me about **Programming, Flutter Development, Cyber Security, Aws Cloud**
 
-- 💬 Ask me about **Programming, Flutter Development, Cyber Security**
-
-- 📫 Reach out to me at **chandansgowda167@gmail.com**
+- 📫 Reach out to me at **rnithin@aol.com**
 
 <h3 align="left">GitHub Stats:</h3>
 
