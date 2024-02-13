@@ -16,7 +16,7 @@
 - 📫 Reach out to me at **rnithin@aol.com**
 
 <h3 align="left">GitHub Stats:</h3>
-</div>
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithingowda16&show_icons=true&locale=en&layout=compact" alt="nithingowda16" /></p>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nithingowda16&" alt="nithingowda16" /></p>
