@@ -17,7 +17,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithingowda16&show_icons=true&locale=en&layout=compact" alt="nithingowda16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="nithingowda16" /></p>
 <br>
   <br>
   <br>
@@ -51,8 +52,6 @@
 ###
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nithingowda16"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nithingowda16" /></a></p><br><br>
-
-
 
 
 
