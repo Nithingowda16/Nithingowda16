@@ -17,7 +17,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithingowda16&show_icons=true&locale=en&layout=compact" alt="nithingowda16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="nithingowda16" /></p>
 <br>
   <br>
   <br>
@@ -54,6 +55,12 @@
 
 
 
+
+
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
 
 
 
