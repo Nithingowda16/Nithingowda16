@@ -3,6 +3,7 @@
 
 <br>
 <br>
+
 - 🌱 I’m currently been learning **Golang and Scala**
 
 - 👨‍💻 I’m currently working at Radiant - **Software Developement Engineer - 1**
