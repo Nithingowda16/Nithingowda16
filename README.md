@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nithin Gowda</h1>
 <h3 align="center">A passionate developer from India - Canada </h3>
 
-
+<br>
+<br>
 - 🌱 I’m currently been learning **Golang and Scala**
 
 - 👨‍💻 I’m currently working at Radiant - **Software Developement Engineer - 1**
