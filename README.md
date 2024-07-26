@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working at Radiant - **Software Developement Engineer - 1**
 
-- 👨‍💻 Digital Forsenic Team - **Cyber Wing - Bengaluru East**
+- 👨‍💻 Threat Intelligent Analyst  - **Indian Cyber Crime CoOrdination Centre - Ministry Of Home Affairs**
   
 - 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
 
