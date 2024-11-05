@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently been learning **Golang and Scala**
 
-- 👨‍💻 I’m currently working at Radiant - **Software Developement Engineer - 2  And  Research Scientist At OrbitX**
+- 👨‍💻 I’m currently working at Amazon - **Solution Architect  And  Research Scientist At OrbitX**
 
 - 👨‍💻 Threat Intelligent Analyst  - **Indian Cyber Crime CoOrdination Centre - Ministry Of Home Affairs**
   
