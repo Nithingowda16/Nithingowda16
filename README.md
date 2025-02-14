@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nithin Gowda</h1>
-<h3 align="center">A passionate developer from India - Canada </h3>
+<h3 align="center">A passionate developer/Solution Architect from India </h3>
 
 <br>
 <br>
