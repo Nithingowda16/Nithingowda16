@@ -21,7 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithingowda16&show_icons=true&locale=en" alt="nithingowda16" /></p>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nithingowda16&" alt="nithingowda16" /></p>
 </div>
 <br>
   <br>
