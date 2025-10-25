@@ -4,7 +4,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently been learning **Golang and Scala**
+- 🌱 I’m currently been learning Gen AI - AWS**
 
 - 👨‍💻 I’m currently working at Amazon - **Solution Architect  And  Research Scientist At OrbitX**
 
