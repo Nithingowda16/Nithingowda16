@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently been learning Gen AI - AWS
 
-- 👨‍💻 I’m currently working at Amazon - **Solution Architect  And  Research Scientist At OrbitX**
-
-- 👨‍💻 Threat Intelligent Analyst  - **Indian Cyber Crime CoOrdination Centre - Ministry Of Home Affairs**
+- 👨‍💻 I’m currently working as - **AWS Educator And Engineer**
   
 - 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
 
